@@ -17,7 +17,7 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/portfolio/work1/</guid>
-      <description></description>
+      <description>&lt;p&gt;Maqueta de papel vegetal y alambre con una fuente de luz.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/portfolio/work2/</guid>
-      <description></description>
+      <description>&lt;p&gt;Maqueta de papel vegetal y alambre con una fuente de luz.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>/portfolio/work3/</guid>
-      <description></description>
+      <description>&lt;p&gt;Maqueta de papel vegetal y alambre con una fuente de luz.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,12 +49,12 @@
     </item>
     
     <item>
-      <title>FUSION 360</title>
-      <link>/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <title>VOLUMEN DE LUZ</title>
+      <link>/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/work8/</guid>
-      <description></description>
+      <guid>/portfolio/work5/</guid>
+      <description>&lt;p&gt;Volumen contruido a partir de papel vegetal y alambre.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -76,12 +76,30 @@
     </item>
     
     <item>
-      <title>VOLUMEN DE LUZ</title>
-      <link>/portfolio/work5/</link>
+      <title>FUSION 360</title>
+      <link>/portfolio/work8/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
-      <guid>/portfolio/work5/</guid>
+      <guid>/portfolio/work8/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>INVESTIGACIÓN DELIVERY</title>
+      <link>/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work9/</guid>
+      <description>&lt;p&gt;Tema: Delivery del futuro.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PROTOTIPO</title>
+      <link>/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work10/</guid>
+      <description>&lt;p&gt;Tema: Delivery del futuro.&lt;/p&gt;</description>
     </item>
     
   </channel>
