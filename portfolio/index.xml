@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on ipuentem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:53:42 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 19:44:32 +0530</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -41,11 +41,10 @@
     <item>
       <title>BITÁCORA</title>
       <link>/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/portfolio/work4/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/portfolio/hugo.png&#34; alt=&#34;image&#34;&gt;
-¿Cómo hacer una instalación de Hugo?&lt;/p&gt;</description>
+      <description>&lt;p&gt;¿Cómo hacer una instalación de Hugo?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -58,48 +57,50 @@
     </item>
     
     <item>
-      <title>MOVILIDAD</title>
+      <title>MOVILIDAD EMERGENCIA</title>
       <link>/portfolio/work6/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/portfolio/work6/</guid>
-      <description></description>
+      <description>&lt;p&gt;La pandemia que se esta viviendo hoy en todo el mundo ha generado diferentes modificaciones en nuestra forma de vivir, sobretodo con respecto al cómo nos movemos y cómo nos relacionamos con otras personas.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>TINKERCAD</title>
+      <title>SOFTWARE CREATIVO</title>
       <link>/portfolio/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/portfolio/work7/</guid>
-      <description></description>
+      <description>&lt;p&gt;Introducción a Tinkercad, un programa de modelado 3D.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>FUSION 360</title>
       <link>/portfolio/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/portfolio/work8/</guid>
-      <description></description>
+      <description>&lt;p&gt;Funciones básicas y ejercicio tutorial de fusion 360.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>INVESTIGACIÓN DELIVERY</title>
       <link>/portfolio/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/portfolio/work9/</guid>
-      <description>&lt;p&gt;Tema: Delivery del futuro.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Tema: Delivery del futuro.
+Debido  la pandemia, se ha estado repensando sobre cómo entregar productos a la personas, que sea seguros y que entreguen confianzna al consumidor. ¿Cómo se puede resolver esto?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PROTOTIPO</title>
       <link>/portfolio/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>/portfolio/work10/</guid>
-      <description>&lt;p&gt;Tema: Delivery del futuro.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Tema: Delivery del futuro.
+¿Cómo sería este nuevo sistema de delivery?&lt;/p&gt;</description>
     </item>
     
   </channel>
